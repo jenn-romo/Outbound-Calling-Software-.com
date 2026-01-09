@@ -1,0 +1,8 @@
+{
+  "name": "Revenue Hunters - Outbound Calling Software",
+  "description": "Production-ready marketing website for Revenue Hunters, featuring AI-powered outbound calling software and automated sales agents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
